@@ -7,5 +7,3 @@ test branch editing1
 main editing
 
 test branch editing
-
-main editing2
